@@ -1,0 +1,24 @@
+# Build
+build/
+out/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# Qt
+.qmake.stash
+
+# VS Code
+.vscode/.cmake/
+.vscode/.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment
+CMakeUserPresets.json
+
+/.vscode
